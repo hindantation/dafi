@@ -3,7 +3,7 @@ The DAF-Index is a visual label that helps determine how functional a given AI s
 
 * Please visit functionalai.org to learn more about DAFI. 
 * DAFI is released under a Creative Common License (CC BY-NC-SA 4.0).
-
+* How to cite: Data Analytics Functionality Index by Hinda Haned (Owls & Arrows), licensed under CC BY-NC-SA 4.0
 
 # This repository
 This repository hosts the Data Analytics Functionality Index (DAFI) questionnaire. This repository keeps tracks of the different versions of the questionnaire both in csv (questions only) and Excel formats. 
