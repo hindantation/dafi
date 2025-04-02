@@ -1,4 +1,4 @@
-# The Data Analytics Functionlity Index (DAFI)
+# The Data Analytics Functionality Index (DAFI)
 The DAF-Index is a visual label that helps determine how functional a given AI system is; whether it is at an early design stage, or already in deployment. DAFI can be determined via a questionnaire that covers different functionality dimensions, the produced label can be used to support critical reflections and discussion on the system's functionality.
 
 * Please visit functionalai.org to learn more about DAFI. 
